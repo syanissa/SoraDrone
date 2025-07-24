@@ -39,14 +39,14 @@ Use W/A/S/D or arrow keys to fly manually
 🛠️ Controls
 
 Key	Action
-W	Forward
-A	Left
-S	Backward
-D	Right
-↑ (Up arrow)	Ascend
-↓ (Down arrow)	Descend
-Q	Rotate left
-E	Rotate right
+- W	Forward
+- A	Left
+- S	Backward
+- D	Right
+- ↑ (Up arrow)	Ascend
+- ↓ (Down arrow)	Descend
+- Q	Rotate left
+- E	Rotate right
 
 
 
