@@ -23,9 +23,12 @@ Restart the app. Your name will appear in the dropdown selector.
 
 🧰 Requirements
 - Use python 3.9 and download the requirement.txt
-- keep in mind that you need to download the dlib file that's in this repo, and then run pip install
+- keep in mind that you need to download the dlib file that's in this repo, and then run this pip install command
 
- pip install dlib-19.22.99-cp39-cp39-win_amd64(1).whl
+
+ pip install dlib-19.22.99-cp39-cp39-win_amd64.whl
+
+ 
 
 
 
