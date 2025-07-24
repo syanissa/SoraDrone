@@ -59,3 +59,10 @@ Key	Action
 - Avoid sunglasses or obstructions in photos
 - Fly in an open area with good lighting
 - Make sure your PC and drone are on the same Wi-Fi network
+
+## Installation
+
+1. Clone this repository:
+```bash
+git clone https://github.com/syanissa/SoraDrone.git
+cd SoraDrone
