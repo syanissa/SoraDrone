@@ -31,7 +31,6 @@ To run this project, make sure the following components and dependencies are ava
 - **dlib Installation**  
   The `face_recognition` library depends on `dlib`, which can be tricky to install on Windows.  
   Use the precompiled `.whl` file included in this repository:
-
   ```bash
   pip install dlib-19.22.99-cp39-cp39-win_amd64.whl
 
