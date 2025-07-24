@@ -1,4 +1,4 @@
-FlySight is a Python-based GUI application that allows keyboard control of a DJI Tello drone while also leveraging real-time face recognition and MediaPipe face detection for tracking and intelligent movement decisions.
+SoraDrone is a Python-based GUI application that allows keyboard control of a DJI Tello drone while also leveraging real-time face recognition and MediaPipe face detection for tracking and intelligent movement decisions.
 
 
 ⚙️ Features
