@@ -26,7 +26,7 @@ Restart the app. Your name will appear in the dropdown selector.
 - keep in mind that you need to download the dlib file that's in this repo, and then run this pip install command
 
 
- pip install dlib-19.22.99-cp39-cp39-win_amd64.whl
+ pip install dlib-19.22.99-cp39-cp39-win_amd64(1).whl
 
  
 
