@@ -21,7 +21,7 @@ Name the file as you want to be recognized (e.g., Rio.jpg or Joean.png).
 Restart the app. Your name will appear in the dropdown selector.
 
 
-🧰 ## Requirements
+🧰 Requirements
 
 To run this project, make sure the following components and dependencies are available:
 
