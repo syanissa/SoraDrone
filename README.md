@@ -21,12 +21,19 @@ Name the file as you want to be recognized (e.g., Rio.jpg or Joean.png).
 Restart the app. Your name will appear in the dropdown selector.
 
 
-🧰 Requirements
-- Use python 3.9 and download the requirement.txt
-- keep in mind that you need to download the dlib file that's in this repo, and then run this pip install command
+🧰 ## Requirements
 
+To run this project, make sure the following components and dependencies are available:
 
- pip install dlib-19.22.99-cp39-cp39-win_amd64(1).whl
+- **Python Version**  
+  This project is tested with **Python 3.9**. Please ensure you're using a compatible version (3.8 or higher).
+
+- **dlib Installation**  
+  The `face_recognition` library depends on `dlib`, which can be tricky to install on Windows.  
+  Use the precompiled `.whl` file included in this repository:
+
+  ```bash
+  pip install dlib-19.22.99-cp39-cp39-win_amd64.whl
 
  
 
